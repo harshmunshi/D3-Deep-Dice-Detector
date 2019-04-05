@@ -128,4 +128,4 @@ On mobilenet-SSD V1 I managed to get the following detection result
 <img src="./results/2018-10-08@13-38-29.png" width="320" height="240"> <img src="./results/2018-10-08@13-54-00.png" width="320" height="240">
 <img src="./results/2018-10-08@14-55-15.png" width="320" height="240"> <img src="./results/2018-10-08@14-45-58.png" width="320" height="240">
 <img src="./results/2018-10-08@15-20-53.png" width="320" height="240"> <img src="./results/2018-10-08@15-47-40.png" width="320" height="240">
-<img src="./results/2019-01-09@13-46-48.png" width="320" height="240"> <img src="./results/2018-10-08@16-25-11.png" width="320" height="240">
+<img src="./results/2018-10-08@15-34-45.png" width="320" height="240"> <img src="./results/2018-10-08@16-25-11.png" width="320" height="240">
