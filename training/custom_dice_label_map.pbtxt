@@ -1,0 +1,19 @@
+item {
+  id: 1
+  name: 'face'
+}
+
+item {
+  id: 2
+  name: 'bottlecap'
+}
+
+item {
+  id: 3
+  name: 'sugarcube'
+}
+
+item {
+  id: 4
+  name: 'fo'
+}
